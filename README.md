@@ -1,2 +1,2 @@
-# hugo-theme-simple
+# hugo-theme-serenity
 📚️ Hugo theme for blogs
